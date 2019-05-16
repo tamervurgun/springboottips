@@ -1,0 +1,2 @@
+ curl start.spring.io/starter.zip -o demo.zip --data @springIoDependencies
+ // see springIoDependencies file
