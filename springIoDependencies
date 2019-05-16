@@ -1,0 +1,6 @@
+dependencies=web,actuator&
+applicationName=JustGifItApplication&
+artifactId=just-gif-it&
+description=just-gif-it&
+groupId=vurgun.tamer.io&
+packageName=vurgun.tamer.io
